@@ -1,5 +1,8 @@
 # csPortfolio
 * WebPage [here](https://bartzc.github.io/bartzPhotography/websiteMain.html)
+* Lightning [here](https://bartzc.github.io/bartzPhotography/websiteMain.html)
+* Lightning JS [here](https://bartzc.github.io/bartzPhotography/websiteMain.html)
+* Dice [here](https://bartzc.github.io/dice3/)
 
 ```html
 
