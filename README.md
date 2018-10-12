@@ -3,6 +3,7 @@
 * Lightning [here](https://bartzc.github.io/lightning2/)
 * Lightning JS [here](https://bartzc.github.io/bartzPhotography/websiteMain.html)
 * Dice [here](https://bartzc.github.io/dice3/)
+* Dice JS [here](https://bartzc.github.io/dice3/dice2.pde)
 
 ```html
 
