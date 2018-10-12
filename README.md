@@ -2,8 +2,8 @@
 * WebPage [here](https://bartzc.github.io/bartzPhotography/websiteMain.html)
 * Lightning [here](https://bartzc.github.io/lightning2/)
 * Lightning JS [here](https://bartzc.github.io/bartzPhotography/websiteMain.html)
-* Dice [here](https://bartzc.github.io/dice3/)
-* Dice JS [here](https://bartzc.github.io/dice3/dice2.pde)
+* Dice [here](https://bartzc.github.io/dice3/index.html)
+* Dice JS [here](https://bartzc.github.io/dice3/index2.html)
 
 ```html
 
