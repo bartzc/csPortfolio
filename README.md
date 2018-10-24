@@ -5,30 +5,22 @@
 * Dice [here](https://bartzc.github.io/dice3/index.html)
 * Dice JS [here](https://bartzc.github.io/dice3/index2.html)
 
-```html
+```Java
 
-.content-container{
-           position:relative; -webkit-perspective:1000; perspective: 1000;
-       }
-       .content{
-           width: 1100px; height: 600px; position: relative; float: left; margin: 35px; -webkit-transition: all 1s ease; transition: all 1s ease; -webkit-transform-style: preserve-3d; transform-style: preserve-3d; 
-       }
-       .center:hover{
-           transform: rotateY(180deg);
-           -webkit-transform: rotateY(180deg);
-       }
-       .center{
-           width: 1100px; height: 600; position: absolute;  backface-visibility: hidden; -webkit-backface-visibility: hidden;
-       }
-       .front{
-           z-index: 2;
-           background-image: url(IMG_1069.JPG);
-       }
-       .back{
-           -webkit-transform: rotateY(180deg);
-           transform: rotateY(180deg);
-       }
-       #back{
-           background: #FFF;
-       }
+class Timer{
+   float time;
+   Timer(float set){
+     time = set;
+   }
+   float getTime(){
+     return time;
+   }
+   void setTime(float set){
+     time = set;
+   }
+   void countUp(){
+    time+=1/frameRate; 
+   }
+   
+}
 ```
