@@ -4,6 +4,9 @@
 * Lightning JS [here](https://bartzc.github.io/bartzPhotography/websiteMain.html)
 * Dice [here](https://bartzc.github.io/dice3/index.html)
 * Dice JS [here](https://bartzc.github.io/dice3/index2.html)
+* Chemotaxis [here](https://bartzc.github.io/chemotaxis4/)
+
+
 
 ```Java
 
