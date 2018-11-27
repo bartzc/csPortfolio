@@ -141,7 +141,7 @@ The following code is an example of a leaderboard saved in a text file that is p
           }
         }
 ```
->> 2. When trying to create my spaceship movement and jumping down the lines of the game board I came across many issues with the positioning of the ships when the lead ship would reach their x axis max/min values. When that would occur the entire ship base would move down one line, but when that lead ship would be killed and erased from the arrayList, the max and min values would then be located off the screen. To solve this I created a check that would look at each end ship for the 5 rows of ships and then use the ship with the greatest/lowest x value in order to determine what ship should be the checker. 
+> 2. When trying to create my spaceship movement and jumping down the lines of the game board I came across many issues with the positioning of the ships when the lead ship would reach their x axis max/min values. When that would occur the entire ship base would move down one line, but when that lead ship would be killed and erased from the arrayList, the max and min values would then be located off the screen. To solve this I created a check that would look at each end ship for the 5 rows of ships and then use the ship with the greatest/lowest x value in order to determine what ship should be the checker. 
 ```
 public void update() {
     indexUpdate();
