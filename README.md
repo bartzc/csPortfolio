@@ -270,4 +270,4 @@ void buttons() {
     return followMouse2;
   }
   ```
-  <small>*here because Dr. R wanted something from this year as well*</small>
+  *Congrats on completing tri 1 guys!*
