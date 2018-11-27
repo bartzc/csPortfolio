@@ -19,35 +19,35 @@
   
   <details><summary><strong>Dice</strong></summary>
     <p>
-     <a href=https:"//bartzc.github.io/dice3/index.html">Link<a>
+     <a href=https:"//bartzc.github.io/dice3/index.html">Here<a>
            
    >Dice taught me OOP (Object Oriented Programming) techniques and creating an appealing interface.
     </p>
   </details>
   <details><summary><strong>Dice JS</strong></summary>
     <p>
-     <a href="https://bartzc.github.io/dice3/index2.html">Link<a>
+     <a href="https://bartzc.github.io/dice3/index2.html">Here<a>
        
    >Converting my Dice program to javaScript allowed me to learn the beginnings of javaScript, and it's own methods/operations.
     </p>
   </details>
   <details><summary><strong>Chemotaxis</strong></summary>
     <p>
-      <a href="https://bartzc.github.io/chemotaxis4/">Link<a>
+      <a href="https://bartzc.github.io/chemotaxis4/">Here<a>
             
-   >Chemotaxis allowed me to become more refreshed with Math.random and positioning/movement.
+   >Chemotaxis allowed me to become more refreshed with Math.random and positioning/movement. The java version doesn't work due to an arrayList error that occurs, the javaScript version is not fully done yet.
     </p>
   </details>
   <details><summary><strong>StarField</strong></summary>
     <p>
-      <a href="https://bartzc.github.io/starfield5/">Link<a>
+      <a href="https://bartzc.github.io/starfield5/">Here<a>
             
    >StarField was an expierence. This project was a place for me to use many of the techniques I have learned over the tri and experiment with them all in my own way. StarField also taught me more about interfaces and inheritance.
     </p>
   </details>
   <details><summary><strong>College Presentation</strong></summary>
     <p>
-      <a href="https://bartzc.github.io/collegePresi/file.html">Link<a>
+      <a href="https://bartzc.github.io/collegePresi/file.html">Here<a>
             
    >The college presentation was an oppertunity to explore my options for future endevores at *Gustavus/St. Olaf*.
     </p>
@@ -60,7 +60,7 @@
 >>With all my lab links.
 
 2. What is one or two things that are a source of pride in your programming development?  
->>My space Invaders game I created (https://alexejosh.github.io/compsciportfolio/).
+>>My space Invaders game I created. Link to repo:(https://github.com/bartzc/spaceInvaders)
 3. Identify them, write about why they are accomplishments, how you did it and what you learned.  Be sure to submit a code snippet along with your writing on the readMe file in your repo.
 >> In my Space Invaders game, I created many classes, often using things not taught in class until just now (Scanners and file readers). 
 
@@ -141,7 +141,7 @@ The following code is an example of a leaderboard saved in a text file that is p
           }
         }
 ```
->> 2. When trying to create my spaceship movement and jumping down the lines of the game board. 
+>> 2. When trying to create my spaceship movement and jumping down the lines of the game board I came across many issues with the positioning of the ships when the lead ship would reach their x axis max/min values. When that would occur the entire ship base would move down one line, but when that lead ship would be killed and erased from the arrayList, the max and min values would then be located off the screen. To solve this I created a check that would look at each end ship for the 5 rows of ships and then use the ship with the greatest/lowest x value in order to determine what ship should be the checker. 
 ```
 public void update() {
     indexUpdate();
