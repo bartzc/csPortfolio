@@ -18,7 +18,7 @@
   </details>
   <details><summary><strong>LightningJS</strong></summary>
     <p>
-     <a href="https://bartzc.github.io/lightning2/index2.html/">Link<a>
+     <a href="https://bartzc.github.io/lightning2/index2.html">Link<a>
 	     <a href="https://github.com/bartzc/lightning2">repo<a>
        
    >Converting lightning to javaScript allowed me to get a basic understanding for the language and see how closly related the two languages actually are.
