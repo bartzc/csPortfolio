@@ -19,7 +19,7 @@
   
   <details><summary><strong>Dice</strong></summary>
     <p>
-     <a href=https:"//bartzc.github.io/dice3/index.html">Here<a>
+     <a href=https:"//bartzc.github.io/dice3">Here<a>
            
    >Dice taught me OOP (Object Oriented Programming) techniques and creating an appealing interface.
     </p>
