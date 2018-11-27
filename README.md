@@ -64,7 +64,7 @@
 3. Identify them, write about why they are accomplishments, how you did it and what you learned.  Be sure to submit a code snippet along with your writing on the readMe file in your repo.
 > In my Space Invaders game, I created many classes, often using things not taught in class until just now (Scanners and file readers). 
 
-The following code is an example of a leaderboard saved in a text file that is pulled up whenever the user goes into the leaderboard option:
+*The following code is an example of a leaderboard saved in a text file that is pulled up whenever the user goes into the leaderboard option:*
 ```Java
 
 
@@ -195,7 +195,7 @@ public void update() {
     }
 		
 ```
-#Code From This Year
+# Code From This Year
 
 > Code I found most *challenging* this year was from starfield. In the following code segment, I created a gui for the x and y axis velocity. The gui wasn't actually diffucult to do, but I found the interaction between the user and the code intresting and creating the individual methods in the gui class.
 ```Java
