@@ -4,21 +4,21 @@
   
   <details><summary><strong>Web Page</strong></summary>
     <p>
-      <a href="https://bartzc.github.io/bartzPhotography/websiteMain.html">Link<a>
+      <a href="https://bartzc.github.io/bartzPhotography/websiteMain.html">Here<a>
     
   >The web page assignment allowed for me to develop an understanding for html and overall web development.
     </p>
   </details>
   <details><summary><strong>Lightning</strong></summary>
     <p>
-     <a href="https://bartzc.github.io/lightning2/">Link<a>
+     <a href="https://bartzc.github.io/lightning2/">Here<a>
        
    >Lightning helped refresh my knowledge of processing, random, positioning and more.
     </p>
   </details>
   <details><summary><strong>LightningJS</strong></summary>
     <p>
-     <a href="https://bartzc.github.io/lightning2/index2.html">Link<a>
+     <a href="https://bartzc.github.io/lightning2/index2.html">Here<a>
 	     <a href="https://github.com/bartzc/lightning2">repo<a>
        
    >Converting lightning to javaScript allowed me to get a basic understanding for the language and see how closly related the two languages actually are.
@@ -35,6 +35,7 @@
   <details><summary><strong>Dice JS</strong></summary>
     <p>
      <a href="https://bartzc.github.io/dice3/index2.html">Here<a>
+	          <a href="https://github.com/bartzc/dice3">Repo<a>
        
    >Converting my Dice program to javaScript allowed me to learn the beginnings of javaScript, and it's own methods/operations.
     </p>
