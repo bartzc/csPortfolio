@@ -43,6 +43,8 @@
   <details><summary><strong>Chemotaxis</strong></summary>
     <p>
       <a href="https://bartzc.github.io/chemotaxis4/">Here<a>
+	      <a href="https://github.com/bartzc/chemotaxis4">Here<a>
+	      
             
    >Chemotaxis allowed me to become more refreshed with Math.random and positioning/movement. The java version doesn't work due to an arrayList error that occurs, the javaScript version is not fully done yet.
     </p>
