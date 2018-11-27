@@ -197,7 +197,7 @@ public void update() {
 ```
 #Code From This Year
 
-> Code I found most *diffucult* this year was from starfield. In the following code segment, I created a gui for the x and y axis velocity. The gui wasn't actually diffucult to do, but I found the interaction between the user and the code intresting and creating the individual methods in the gui class.
+> Code I found most *challenging* this year was from starfield. In the following code segment, I created a gui for the x and y axis velocity. The gui wasn't actually diffucult to do, but I found the interaction between the user and the code intresting and creating the individual methods in the gui class.
 ```Java
 //All methods that make up the gui class
 void buttons() {
@@ -270,4 +270,4 @@ void buttons() {
     return followMouse2;
   }
   ```
-  *here because Dr. R wanted something from this year as well*
+  <small>*here because Dr. R wanted something from this year as well*</small>
