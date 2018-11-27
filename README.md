@@ -195,3 +195,79 @@ public void update() {
     }
 		
 ```
+#Code From This Year
+
+> Code I found most *diffucult* this year was from starfield. In the following code segment, I created a gui for the x and y axis velocity. The gui wasn't actually diffucult to do, but I found the interaction between the user and the code intresting and creating the individual methods in the gui class.
+```Java
+//All methods that make up the gui class
+void buttons() {
+    rectMode(CORNER);
+    fill(255, 75);
+    rect(0, 0, 200, 1440);
+    //xVel controller
+    fill(255);
+    rect(90, 250, 20, 400);
+    textSize(45);
+    text("xVel:", 45, 150);
+    textSize(35);
+    text("\'1\' to reset", 5, 780);
+    fill(255, 85);
+    textSize(32);
+    text("FASTEST", 35, 220);
+    text("SLOWEST", 35, 700);
+    //yVel controller
+    fill(255);
+    rect(90, 950, 20, 400);
+    textSize(45);
+    text("yVel:", 45, 850);
+    fill(255, 85);
+    textSize(32);
+    text("FASTEST", 35, 920);
+    text("SLOWEST", 35, 1400);
+
+
+    //Sliders should follow mouse when pressed on button. 
+    fill(0, 1, 0);
+    rectMode(CENTER);
+    rect(100, followMouse1, 100, 40);
+    rect(100, followMouse2, 100, 40);
+    if (mousePressed||keyPressed) {
+      checker();
+    }
+  }
+  void checker() {
+
+    color mouse = get(mouseX, mouseY);
+    //top scroller
+    if (box == mouse&&mouseY<=650&&mouseY>=250) {
+      if (mouseY>followMouse1) {
+        followMouse1+=2;
+      }
+      if (mouseY<followMouse1) {
+        followMouse1-=2;
+      }
+    }//Bottom Scroller
+    if (box == mouse&&mouseY<=1350&&mouseY>=950) {
+      if (mouseY>followMouse2) {
+        followMouse2+=2;
+      }
+      if (mouseY<followMouse2) {
+        followMouse2-=2;
+      }
+    }
+
+    if (keyPressed) {
+      if (key == '1') {
+        followMouse1 = 450;
+        followMouse2 = 1150;
+      }
+    }
+  }
+  int topScroll() {
+    return followMouse1;
+  }
+  int bottomScroll() {
+    return followMouse2;
+  }
+  ```
+  *here because Dr. R wanted something from this year as well*
