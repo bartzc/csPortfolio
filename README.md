@@ -16,6 +16,13 @@
    >Lightning helped refresh my knowledge of processing, random, positioning and more.
     </p>
   </details>
+  <details><summary><strong>LightningJS</strong></summary>
+    <p>
+     <a href="https://bartzc.github.io/lightning2/index.html/">Link<a>
+       
+   >Converting lightning to javaScript allowed me to get a basic understanding for the language and see how closly related the two languages actually are.
+    </p>
+  </details>
   
   <details><summary><strong>Dice</strong></summary>
     <p>
