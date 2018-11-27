@@ -57,12 +57,12 @@
 
 
 1. Reflect on all your portfolio projects.  
->>With all my lab links.
+>With all my lab links.
 
 2. What is one or two things that are a source of pride in your programming development?  
->>My space Invaders game I created. Link to repo:(https://github.com/bartzc/spaceInvaders)
+>My space Invaders game I created. Link to repo:(https://github.com/bartzc/spaceInvaders)
 3. Identify them, write about why they are accomplishments, how you did it and what you learned.  Be sure to submit a code snippet along with your writing on the readMe file in your repo.
->> In my Space Invaders game, I created many classes, often using things not taught in class until just now (Scanners and file readers). 
+> In my Space Invaders game, I created many classes, often using things not taught in class until just now (Scanners and file readers). 
 
 The following code is an example of a leaderboard saved in a text file that is pulled up whenever the user goes into the leaderboard option:
 ```Java
@@ -117,10 +117,10 @@ The following code is an example of a leaderboard saved in a text file that is p
   
 ```
 4. Identify the most significant hurdle you encountered last trimester.  Write about what it was and how it was resolved.
->>Last trimester the greatest hurdle I had was working on starfield. I was trying to create a controller for the velocity of the stars and had the diffuculty of the stars moving to fast and flying off the screen when I would adjust it at all. To solve this, I set boarders and linked the speeds together so that they wouldn't move to fast one way.
+>Last trimester the greatest hurdle I had was working on starfield. I was trying to create a controller for the velocity of the stars and had the diffuculty of the stars moving to fast and flying off the screen when I would adjust it at all. To solve this, I set boarders and linked the speeds together so that they wouldn't move to fast one way.
 6. Describe the incremental and iterative development process of your included code, focusing on two distinct points in that process. Describe the difficulties and/or opportunities you encountered and how they were resolved or incorporated. In your description clearly indicate whether the development described was collaborative or independent. At least one of these points must refer to independent program development
->>I found the most issues when trying to create the spaceship movement along with the arrayLists of objects. 
->>1. This creates/checks the shots that the hero ship shoots by comparing the shots arrayList to the enemy ships array list. I found issues with this trying to avoid latency in the shots being checked and removing the ships once they were hit but worked around this by singling out just the shots and running lots of checks to create the 
+>I found the most issues when trying to create the spaceship movement along with the arrayLists of objects. 
+>1. This creates/checks the shots that the hero ship shoots by comparing the shots arrayList to the enemy ships array list. I found issues with this trying to avoid latency in the shots being checked and removing the ships once they were hit but worked around this by singling out just the shots and running lots of checks to create the 
 ```Java
 		for (int i = shots.size()-1; i>=1; i--) {
       fill(0, 252, 0);
