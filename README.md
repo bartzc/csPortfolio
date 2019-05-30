@@ -11,15 +11,15 @@
   </details>
   <details><summary><strong>Lightning</strong></summary>
     <p>
-     <a href="https://bartzc.github.io/lightning2/">Here<a>
+     <a href="https://bartzc.github.io/dice3/index3.html">Here<a>
        
    >Lightning helped refresh my knowledge of processing, random, positioning and more.
     </p>
   </details>
   <details><summary><strong>LightningJS</strong></summary>
     <p>
-     <a href="https://bartzc.github.io/lightning2/index2.html">Here<a>
-	     <a href="https://github.com/bartzc/lightning2">repo<a>
+     <a href="https://bartzc.github.io/dice3/index4.html">Here<a>
+	     <a href="https://github.com/bartzc/dice3/">repo<a>
        
    >Converting lightning to javaScript allowed me to get a basic understanding for the language and see how closly related the two languages actually are.
     </p>
@@ -56,6 +56,16 @@
    >StarField was an expierence. This project was a place for me to use many of the techniques I have learned over the tri and experiment with them all in my own way. StarField also taught me more about interfaces and inheritance.
     </p>
   </details>
+  
+  <details><summary><strong>Data</strong></summary>
+    <p>
+      <a href="https://github.com/bartzc/mapsMain">Repo<a>
+      <img src=".jpg">
+            
+   >My data project was a nice way to incorrperate a user influenced output, while making it satisfying to look at. The project was inspired for my intrest in video games, and wanting to use that in some way. 
+    </p>
+  </details>
+  
   <details><summary><strong>College Presentation</strong></summary>
     <p>
       <a href="https://bartzc.github.io/collegePresi/file.html">Here<a>
@@ -282,3 +292,5 @@ void buttons() {
   }
   ```
   <sub><sup>*Congrats on completing tri 1 guys!*</sup></sub>
+
+
