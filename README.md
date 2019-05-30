@@ -60,11 +60,21 @@
   <details><summary><strong>Data</strong></summary>
     <p>
       <a href="https://github.com/bartzc/mapsMain">Repo<a>
-      <img src=".jpg">
+      
             
    >My data project was a nice way to incorrperate a user influenced output, while making it satisfying to look at. The project was inspired for my intrest in video games, and wanting to use that in some way. 
     </p>
   </details>
+  
+  <details><summary><strong>Final Project</strong></summary>
+    <p>
+      <a href="https://github.com/bartzc/dice3/blob/gh-pages/FinalProj.pde">Repo<a>
+      
+            
+   >My data project was a nice way to incorrperate a user influenced output, while making it satisfying to look at. The project was inspired for my intrest in video games, and wanting to use that in some way. 
+    </p>
+  </details>
+  
   
   <details><summary><strong>College Presentation</strong></summary>
     <p>
